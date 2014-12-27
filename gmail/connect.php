@@ -4,5 +4,5 @@ $username='root';
 $password='';
 	$con=mysql_connect($hostname,$username,$password);
 	$db=mysql_select_db("gmail");
+	// ankit 6.10pm
 ?>
-hyyyye rubbba
