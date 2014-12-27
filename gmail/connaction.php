@@ -41,15 +41,4 @@
 
 }
 ?>
-<<<<<<< HEAD
-//hiiixdgyfuwegtfigysdufhsdi
-xzczxczxczxczxczx<br />
-
-zxczxczxc<br />
-
-zxczxczxc
-
-zxczxczxc
-=======
-//hello world
->>>>>>> origin/master
+now ok
